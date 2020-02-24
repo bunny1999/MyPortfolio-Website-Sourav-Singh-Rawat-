@@ -1,6 +1,5 @@
-# myPortfolioNew
-
-A new Flutter project.
+# MyPortfolio (Under Development)
+Flutter Web Project, Portfolio Website
 
 ## Getting Started
 
